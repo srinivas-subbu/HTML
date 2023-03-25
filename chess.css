@@ -1,0 +1,17 @@
+
+.center{
+    padding-left: 25%;
+}
+button.wheat{
+    height: 100px;
+    width: 100px;
+    font-size: 75px;
+    background-color: wheat;
+}
+button.brown{
+    height: 100px;
+    width: 100px;
+    font-size: 75px;
+    background-color: brown;
+}
+
